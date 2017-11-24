@@ -1,3 +1,4 @@
-# springboot2waycert
-spring boot with 2 factor certificate
+# springboot-two-factor-auth
+spring boot application protected by self signed certificate
+
 
