@@ -36,6 +36,7 @@ hs_err_pid*
 .idea/**/dataSources.local.xml
 .idea/**/sqlDataSources.xml
 .idea/**/dynamic.xml
+.idea/
 .idea/**/uiDesigner.xml
 
 # Gradle:
@@ -110,3 +111,4 @@ __MACOSX
 Icon?
 ehthumbs.db
 Thumbs.db
+springboot-two-factor-auth.iml
